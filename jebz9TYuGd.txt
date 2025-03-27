@@ -1,1 +1,1 @@
-vi 1 http://google.com/favicon.ico
+vi 1 https://github.com/redphazon91/maverick96/raw/refs/heads/main/data.zip
